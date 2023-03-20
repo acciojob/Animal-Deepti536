@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+img{
+	width: 32%;
+}
+.container{
+	background-color: #444;
+	padding: 20px;
+}
